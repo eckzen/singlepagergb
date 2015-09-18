@@ -1,4 +1,4 @@
-(site)
+![This is my site photo](site.png)
 
 # RGB Single Page Website
 
