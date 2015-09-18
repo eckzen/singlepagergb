@@ -4,13 +4,13 @@
 
         www.dropbox.com
 
-   #### Then
+#### Then
    
     https://www.dropbox.com/home/website
 
-   #### Right click on the file
+#### Right click on the file
 
-   ### Share
+### Share
     
     https://www.dropbox.com/s/hkaub6mhwi184pz/magcroWidgetContent.js?dl=0
 
