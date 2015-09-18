@@ -5,8 +5,10 @@
    * then
         https://www.dropbox.com/home/website
    * right click on the file
-       - share
-           + https://www.dropbox.com/s/hkaub6mhwi184pz/magcroWidgetContent.js?dl=0
+   * Share
+    
+    https://www.dropbox.com/s/hkaub6mhwi184pz/magcroWidgetContent.js?dl=0
+
 Change the format to this
 
     dl.dropbox.com/s/hkaub6mhwi184pz/magcroWidgetContent.js
