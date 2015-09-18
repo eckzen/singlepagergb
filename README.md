@@ -29,3 +29,22 @@ Format when inserted inside the HEAD
 ## Blogger template source
 
     http://www.mybloggerthemes.com/2014/10/magcro-parallax.html
+
+## Checklist
+
+* Dropbox link to javascript
+* Remove Logo
+
+    .uj_bottom_arrow display:none;
+
+* Remove Bubbles
+* Adjust Menu Titles
+* Remove About Me Google account
+* Create
+    + Facebook
+    + LinkdIN
+    + Pinterest
+    + Google+
+* Remove facebook on the sidebar
+* Fix google maps locatioh
+
