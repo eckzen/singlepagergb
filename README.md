@@ -49,4 +49,10 @@ Format when inserted inside the HEAD
     + Google+
 * Remove facebook on the sidebar
 * Fix google maps locatioh
+* Edit Images
+    - Use for website
+    - Black and white photos
+    - 3000 x 2000 px size
+    - pic ni tatay
+    - About Us
 
