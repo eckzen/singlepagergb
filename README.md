@@ -74,13 +74,13 @@ Banner2
 
 ![This is my site photo](banner2.png)
 
-http://4.bp.blogspot.com/-ypA8FBAXflw/VfzU5DR3XcI/AAAAAAAAAbI/VBdNhB657OI/s1600/banner2.png
+http://4.bp.blogspot.com/-1jRjRBU6j88/Vfzlw4swokI/AAAAAAAAAb4/IOT4DX9pW1w/s1600/banner2.jpg
 
 BG1
 
 ![This is my site photo](BG1.png)
 
-http://1.bp.blogspot.com/-rEzl17NFhNM/VfzTv8lBLiI/AAAAAAAAAaw/h9MA7rFY314/s1600/BG1.png
+http://3.bp.blogspot.com/-Lmm1_0SXbSU/VfzmKUbMkKI/AAAAAAAAAcI/JjZ4buixjjI/s1600/BG1.jpg
 
 BG2
 
@@ -92,7 +92,7 @@ BG3
 
 ![This is my site photo](BG3.png)
 
-http://4.bp.blogspot.com/-xJAWrqsJPME/VfzUDE46mrI/AAAAAAAAAa4/ftv69eBngAQ/s1600/BG3.png
+http://1.bp.blogspot.com/-LqJiEtukIk8/VfzlzOfdphI/AAAAAAAAAcA/YQyH0xqQjpg/s1600/BG3.jpg
 
 BG4
 
