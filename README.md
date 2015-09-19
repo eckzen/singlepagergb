@@ -58,6 +58,12 @@ Format when inserted inside the HEAD
 
 ## Images
 
+Correct image sizes
+
+    1250 x 800 for website full
+    72 dpi
+    150 x 96 for git image demo
+
 Banner_adjust
 
 ![This is my site photo](Banner_adjust.png)
