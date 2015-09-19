@@ -56,3 +56,25 @@ Format when inserted inside the HEAD
     - pic ni tatay
     - About Us
 
+## Images
+
+Banner_adjust
+![This is my site photo](Banner_adjust.png)
+
+Banner2
+![This is my site photo](banner2.png)
+
+BG1
+![This is my site photo](BG1.png)
+
+BG2
+![This is my site photo](BG2.png)
+
+BG3
+![This is my site photo](BG3.png)
+
+BG4
+![This is my site photo](BG4.png)
+
+BG5
+![This is my site photo](BG5.png)
