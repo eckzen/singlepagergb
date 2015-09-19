@@ -82,6 +82,18 @@ BG1
 
 http://3.bp.blogspot.com/-Lmm1_0SXbSU/VfzmKUbMkKI/AAAAAAAAAcI/JjZ4buixjjI/s1600/BG1.jpg
 
+BG1.1 slim
+
+http://4.bp.blogspot.com/-K8I-B4YyXsU/Vfzpa2ieFrI/AAAAAAAAAcU/iDP1A2ur4Ew/s320/BG1.1.jpg
+
+1350 x 500
+
+http://1.bp.blogspot.com/-XwpYcngTuJo/VfzqukXlggI/AAAAAAAAAcc/JjXQonkmusU/s1600/BG1.2.jpg
+
+http://3.bp.blogspot.com/-riuayAW2lJ8/VfzsBQVxMxI/AAAAAAAAAck/J31Edxd6KiI/s1600/BG1.3.jpg
+
+http://1.bp.blogspot.com/-mt55WRt6mO4/VfztV-njKII/AAAAAAAAAcs/BTbKWG7mvoc/s1600/BG1.4.jpg
+
 BG2
 
 ![This is my site photo](BG2.png)
@@ -100,8 +112,21 @@ BG4
 
 http://4.bp.blogspot.com/-B3FG5AfTW-8/VfzWLAvBD7I/AAAAAAAAAbQ/IZK_S7PSf9s/s1600/BG2.png
 
+http://1.bp.blogspot.com/-4RMMg6ybr4U/Vfzwsi686kI/AAAAAAAAAdE/l1Cnisiyh5w/s1600/BG4.1.jpg
+
 BG5
 
 ![This is my site photo](BG5.png)
 
 http://1.bp.blogspot.com/-ft7Q6o8_3LY/VfzZWK-MfcI/AAAAAAAAAbc/j1nUFueC04U/s1600/BG5.png
+
+http://4.bp.blogspot.com/-0PYBxgXVPGA/Vfzu0-Xw9lI/AAAAAAAAAc4/X2tfE1ftNdc/s1600/BG5.1.jpg
+
+BG6
+
+http://4.bp.blogspot.com/-FFK92zQ57xg/Vfzzk171rTI/AAAAAAAAAdQ/c4ocMGU8ggw/s1600/BG6.jpg
+
+http://2.bp.blogspot.com/-X6OUcmks5tw/Vfz0udbTOmI/AAAAAAAAAdY/Llbmmvw9E5o/s1600/BG6.1.jpg
+
+http://3.bp.blogspot.com/--cR7RQtF0G8/Vfz2K2qOo_I/AAAAAAAAAdo/vrMKlRk54WE/s1600/BG6.2.jpg
+
