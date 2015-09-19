@@ -68,26 +68,40 @@ Banner_adjust
 
 ![This is my site photo](Banner_adjust.png)
 
+http://1.bp.blogspot.com/-0PIslYqYah0/VfzbbohUyPI/AAAAAAAAAbo/dShxbfUPGJs/s1600/Banner_adjust.png
+
 Banner2
 
 ![This is my site photo](banner2.png)
+
+http://4.bp.blogspot.com/-ypA8FBAXflw/VfzU5DR3XcI/AAAAAAAAAbI/VBdNhB657OI/s1600/banner2.png
 
 BG1
 
 ![This is my site photo](BG1.png)
 
+http://1.bp.blogspot.com/-rEzl17NFhNM/VfzTv8lBLiI/AAAAAAAAAaw/h9MA7rFY314/s1600/BG1.png
+
 BG2
 
 ![This is my site photo](BG2.png)
+
+http://1.bp.blogspot.com/-6ZjO_H29EV0/VfzTlyvtWlI/AAAAAAAAAao/KgsagzmBLdI/s1600/BG2.png
 
 BG3
 
 ![This is my site photo](BG3.png)
 
+href="http://4.bp.blogspot.com/-xJAWrqsJPME/VfzUDE46mrI/AAAAAAAAAa4/ftv69eBngAQ/s1600/BG3.png
+
 BG4
 
 ![This is my site photo](BG4.png)
 
+http://4.bp.blogspot.com/-B3FG5AfTW-8/VfzWLAvBD7I/AAAAAAAAAbQ/IZK_S7PSf9s/s1600/BG2.png
+
 BG5
 
 ![This is my site photo](BG5.png)
+
+http://1.bp.blogspot.com/-ft7Q6o8_3LY/VfzZWK-MfcI/AAAAAAAAAbc/j1nUFueC04U/s1600/BG5.png
