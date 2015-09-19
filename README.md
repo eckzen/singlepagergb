@@ -92,7 +92,7 @@ BG3
 
 ![This is my site photo](BG3.png)
 
-href="http://4.bp.blogspot.com/-xJAWrqsJPME/VfzUDE46mrI/AAAAAAAAAa4/ftv69eBngAQ/s1600/BG3.png
+http://4.bp.blogspot.com/-xJAWrqsJPME/VfzUDE46mrI/AAAAAAAAAa4/ftv69eBngAQ/s1600/BG3.png
 
 BG4
 
